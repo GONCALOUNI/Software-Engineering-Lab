@@ -113,7 +113,7 @@ export default Vue.extend({
       this.$router.push(this.localePath(`/projects/${this.$route.params.id}/perspectives`))
     }
   }
-})
+}) 
 </script>
 
 <style scoped>
